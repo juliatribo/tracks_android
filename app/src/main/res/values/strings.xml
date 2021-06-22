@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejemplo1</string>
+    <string name="add_track">Add Track</string>
+    <string name="reload">RELOAD</string>
+    <string name="song">Song</string>
+    <string name="author">Author</string>
+    <string name="id">id</string>
+</resources>
